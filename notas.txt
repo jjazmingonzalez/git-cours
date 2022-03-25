@@ -1,0 +1,4 @@
+git bash consola
+ls mostrar contenido en una carpeta
+pwd para entrar a dicrectorio actual
+
