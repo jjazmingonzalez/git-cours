@@ -4,6 +4,14 @@ pwd para entrar a directorio actual
 git config --global user.email "jjazmingonzalez@hotmail.com"
 git config --global user.name "Jazz"
 i para escribir "msj"
-wq: enter para finalizar lo del nombre del usuario 
+wq: enter para finalizar lo del nombre del usuario
 git log para ver los archivos commit
 git diff archivo.txt para ver las diferencias
+git branch muestra las versiones de los proyectos
+git brach login (login=nombre de version alternativa)
+git checkout login para moverse a la version deseada de un proyecto
+git add.   "para agregar todos los archivos de trabajo"
+git clone https://github.com/jjazmingonzalez/git-cours.git
+navegar en escritorio para pegar archivos
+$ git remote add origin https://github.com/jjazmingonzalez/git-cours.git~
+$ git push -u origin login  para subirlo totalmente
